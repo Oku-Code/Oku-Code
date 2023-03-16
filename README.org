@@ -33,9 +33,9 @@ Well from gaming and read documentation, watch videos on Youtube, most of the ti
 As i said earlier i'm learning how to use rust as a backend language, but i have some other skills like:
 
 1) Linux knowledge: As my main OS i'm not only learn the basic commands, also the file system internals, services, software using with it, no gonna lie that was something that bring me passion to learn.
-2) Python intermediate: /I hate java/, no get me wrong, this language is awesome, if you like to calls object everytime, but thanks to python i manage to finish my programming lectures at university
-3) Web development basics: It was 2014 when i starting to learn html thanks to dreamweaver CS6, but as i'm looking for new tools to the job more efficently i learn css, JS was pretty late, when people told me /web is not about to look pretty, is about to make it functional/.
-4) Databases: this is something pretty important, data is the nnew gold of 20 century and that's something i pick quite rencently, right now knowing about relational databases but i don't know about no relational ones
+2) Python intermediate: /I hate java/, no get me wrong, this language is awesome, if you like to calls objects everytime, but thanks to python i manage to finish my programming lectures at university
+3) Web development basics: It was 2014 when i starting to learn html thanks to dreamweaver CS6, but as i'm looking for new tools to the job more efficiently i learn css, JS was pretty late, when people told me /web is not about to look pretty, is about to make it functional/.
+4) Databases: this is something pretty important, data is the new gold of 20 century and that's something i pick quite rencently, right now knowing about relational databases but i don't know about no relational ones
 5) Rust programming language: Well this is something funny, when i was doing python for my university lectures, i find this language called rust, and that was one of those things i'm happy about it, thanks to /ferry says/ crate, started in 2018 and now 2023 this is an amazing language i want to work with it in the near future...
 6) Git: In my opinion something a must if you are in the tech industry, not only add, commit and push...
 7) English Language: My english maybe don't be sophisticated but as my professors and colleges says, this is an important skill, beacuse all the content is made with this language in mind, btw sorry if it is so basic...
