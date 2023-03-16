@@ -1,11 +1,9 @@
-#+TITLE: OkuCode or Oku-Code readme
+#+TITLE: OkuCode Readme
 #+AUTHOR: OkuCode
 #+DESCRIPTION: Information about this colombian geek
 #+DATE: <2023-03-16 Thu>
 
-* Hello and welcome
-
-This is an interview for my self, so today we have a Oku, and student of systems engineer for about 5 years and a half.
+Hello and welcome, this is an interview for my self, so today we have a Oku, and student of systems engineer for about 5 years and a half.
 
 
 ** Hello and welcome, please present to your audience.
