@@ -1,4 +1,4 @@
-#+TITLE: OkuCode Readme
+#+TITLE: A little presentation
 #+AUTHOR: OkuCode
 #+DESCRIPTION: Some basic information about me...
 #+DATE: <2026-03-03 Tue>
@@ -7,7 +7,7 @@
 
 I'm Juan a student of Systems Engineer Based in Colombia.
 
-My previous job experience was with handling AI infraestructure, working with local LLMS an enterprise scale and creating applications using this treding tecnology.
+My previous job experience was with handling AI infraestructure, working with local LLMS an enterprise scale and creating applications using this trending tecnology.
 
 I'm not a frontend developer, but my main focus is on servers, configure and get this services up and running.
 
@@ -15,16 +15,16 @@ This is a small, fresh and clean profile that will be updated with new things, i
 
 ** Tools, Languages & Setup
 
-- Tools :: ollama, streamlit
-- Languages :: python
+- Tools :: Emacs, Podman, Linux. 
+- Languages :: Python.
 - Setup :: Dell Latitude 3410, Samsung SyncMaster B2230
 
 ** A little details about me
 
-- I have two cats called Angel and Lucifer
-- I have a dog, is my companion and friend called Tommy
-- Watch collector enthusiast with only two casios
-- Old school gamer owning a psp
+- I have two cats called Angel and Lucifer.
+- I have a dog, is my companion and friend called Tommy.
+- Watch collector enthusiast with only two casios.
+- Old school gamer owning a psp and a fighiting game enthusiast.
 
 
 
