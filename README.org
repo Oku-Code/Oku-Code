@@ -3,9 +3,7 @@
 #+DESCRIPTION: Some basic information about me...
 #+DATE: <2026-03-03 Tue>
 
-* Hello
-
-I'm Juan a student of Systems Engineer Based in Colombia.
+Hello, I'm Juan a student of Systems Engineer Based in Colombia.
 
 My previous job experience was with handling AI infraestructure, working with local LLMS an enterprise scale and creating applications using this trending tecnology.
 
